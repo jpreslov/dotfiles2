@@ -1,0 +1,27 @@
+[shell]
+program = "/usr/bin/zsh"
+
+[font]
+size = 8
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[font.bold_italic]
+family = "JetBrainsMono Nerd Font"
+style = "Bold Italic"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "Italic"
+
+[window.padding]
+x = 10
+y = 10
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+# import = "~/.config/alacritty/dracula/dracula.toml"
